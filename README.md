@@ -81,6 +81,9 @@ This project is licensed under the MIT License. See the [LICENSE]() file for det
 Special thanks to:
 
 Supervision: Mr. Inderjeet
+
 Team Members: Aman Singh, Vidit, Yash Gaula
+
 Institution: Delhi Skill & Entrepreneurship University, Dwarka Campus
+
 Resources: Python, Power BI
