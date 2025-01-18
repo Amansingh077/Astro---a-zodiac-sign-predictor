@@ -34,10 +34,15 @@ Data Storage: Ms Excel using Gradio
 
 
 ## 📂 Project Structure
+
 code/: Contains the Python scripts for zodiac prediction, data preprocessing, and visualization.
+
 dashboard/: Power BI dashboards for visualizing insights.
+
 data/: Input datasets including date of birth and zodiac-related attributes.
+
 README.md: This documentation file.
+
 
 ## 📊 Key Highlights
 ### Power BI Dashboards:
